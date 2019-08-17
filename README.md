@@ -2,7 +2,7 @@
 Official snapshot of Catalyst DB for bootstrapping
 
 Steps:
-- download the snapshot from here https://storage.googleapis.com/cx-snapshot-height-366230/cx-snapshot-height-366230.zip
+- download the snapshot from here https://storage.googleapis.com/cx-snapshot-height-366230/cx-snapshot-height-366230.zip, on linux simply use ` wget <link_to_snapshot>` to download the zip
 - unzip the folder
 - make sure Catalystd is not running on your machine
 - remove the database files, for linux this would be `rm -r .Catalyst/`
